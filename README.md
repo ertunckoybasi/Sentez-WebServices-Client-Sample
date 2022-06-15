@@ -40,11 +40,11 @@ Net 5.0 framework C# ile geliştirilmiştir. Apilere bağlantı için HttpClient
 modifiye edilmelidir.
 
 
-## Database
+### Database
 
 Microsoft Sql Server kullanılmıştır.
 
-## Lisans
+### Lisans
 
 Web Servis kullanımları lisansları için Sentez Yazılım satış temsilcileri ile iletişime geçilmelidir.
 
